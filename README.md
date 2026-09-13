@@ -60,6 +60,10 @@ My goal is to continuously improve my programming and web development skills by 
 * Add more interactive features
 * Continue learning new technologies
 
+  ## 📸 Portfolio Preview
+
+![Portfolio Preview](portfolio-preview.png)
+
 ---
 
 ⭐ Thanks for visiting my repository!
